@@ -1,0 +1,50 @@
+.font {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.upLeft {
+
+}
+
+.upRight {
+
+}
+
+.center {
+    text-align: -webkit-center;
+    padding-top: 109px;
+    height: 92px;
+    /* width: 272px; */
+}
+
+.belowCenter {
+    text-align: -webkit-center;
+    padding-top: 33px;
+    /* height: 92px; */
+}
+
+
+.botRightCenter {
+    position: absolute;
+    background-color: lightgrey;
+    left: 60%;
+    margin-left: -100px;
+    padding: 10px;
+}
+
+.botLeftCenter {
+    position: absolute;
+    background-color: lightgrey;
+    left: 46%;
+    margin-left: -100px;
+    padding: 10px;
+}
+
+.botLeft {
+    position: fixed;
+    bottom: 0em;
+}
+
+.botRight {
+
+}
