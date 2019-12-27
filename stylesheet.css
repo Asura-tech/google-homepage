@@ -14,13 +14,33 @@
     text-align: -webkit-center;
     padding-top: 109px;
     height: 92px;
+    border: 5px solid black;
     /* width: 272px; */
 }
 
 .belowCenter {
     text-align: -webkit-center;
-    padding-top: 33px;
+    padding-top: 20px;
+    /* border: 1.5px solid black; */
     /* height: 92px; */
+}
+
+.search {
+    width: 40%;
+    position: relative;
+    display: flex;
+    border-radius: 10px;
+    outline-width: 0px;
+    padding: 5px;
+    border-color: grey;
+  }
+
+.button {
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
 
 
@@ -48,3 +68,7 @@
 .botRight {
 
 }
+
+
+.footer {
+    
