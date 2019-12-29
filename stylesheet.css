@@ -15,14 +15,11 @@
     padding-top: 109px;
     height: 92px;
     border: 5px solid black;
-    /* width: 272px; */
 }
 
 .belowCenter {
     text-align: -webkit-center;
     padding-top: 20px;
-    /* border: 1.5px solid black; */
-    /* height: 92px; */
 }
 
 .search {
@@ -54,7 +51,7 @@
 
 .botLeftCenter {
     position: absolute;
-    background-color: lightgrey;
+    background-color: gray;
     left: 46%;
     margin-left: -100px;
     padding: 10px;
@@ -62,13 +59,31 @@
 
 .botLeft {
     position: fixed;
-    bottom: 0em;
+    left:0px;
+    bottom:0;
+    width: 50%;
+    color: black;
+    text-align: -webkit-left;
+    background-color: lightgray;
+    padding: 10px 0 10px 10px;
+}
+
+a:link, a:visited {
+    color: black;
+ }
+a:hover {
+    color: black;
+    text-decoration: underline !important;
+    cursor: pointer;
 }
 
 .botRight {
-
+    position: fixed;
+    bottom:0;
+    width: 50%;
+    color: black;
+    background-color: lightgray;
+    padding: 10px 10px 10px 10px;
+    right: 0px;
+    text-align: -webkit-right;
 }
-
-
-.footer {
-    
