@@ -14,7 +14,7 @@
     text-align: -webkit-center;
     padding-top: 109px;
     height: 92px;
-    border: 5px solid black;
+    border: 5px;
 }
 
 .belowCenter {
@@ -23,22 +23,28 @@
     color: #e6e6e6;
 }
 
+
 .search {
-    width: 35%;
+    width: 38%;
     position: relative;
     display: flex;
     border-radius: 15px;
     outline-width: 0px;
-    padding: 10px;
-    border-color: #e6e6e6;
+    padding: 11px;
+    border: #e6e6e6 1px solid;
   }
 
 .button {
-  padding: 5px 20px;
+  padding: 5px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  /* font-size: 16px; */
+  background-color: #e6e6e6;
+  border-radius: 5px;
+  outline-width: 0px;
+  border-spacing: 10px;
+  margin: 5px;
 }
 
 
