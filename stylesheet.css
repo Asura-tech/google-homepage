@@ -1,5 +1,5 @@
-.font {
-    font-family: Arial, Helvetica, sans-serif
+.rightSpaces {
+    word-spacing: 10px;
 }
 
 .upLeft {
@@ -20,16 +20,17 @@
 .belowCenter {
     text-align: -webkit-center;
     padding-top: 20px;
+    color: #e6e6e6;
 }
 
 .search {
-    width: 40%;
+    width: 35%;
     position: relative;
     display: flex;
-    border-radius: 10px;
+    border-radius: 15px;
     outline-width: 0px;
-    padding: 5px;
-    border-color: grey;
+    padding: 10px;
+    border-color: #e6e6e6;
   }
 
 .button {
@@ -43,7 +44,7 @@
 
 .botRightCenter {
     position: absolute;
-    background-color: lightgrey;
+    background-color: #e6e6e6;
     left: 60%;
     margin-left: -100px;
     padding: 10px;
@@ -51,7 +52,7 @@
 
 .botLeftCenter {
     position: absolute;
-    background-color: gray;
+    background-color: #e6e6e6;
     left: 46%;
     margin-left: -100px;
     padding: 10px;
@@ -64,9 +65,10 @@
     width: 50%;
     color: black;
     text-align: -webkit-left;
-    background-color: lightgray;
-    padding: 10px 0 10px 10px;
+    background-color: #e6e6e6;
+    padding: 12px 20px 13px 20px;
 }
+
 
 a:link, a:visited {
     color: black;
@@ -82,8 +84,8 @@ a:hover {
     bottom:0;
     width: 50%;
     color: black;
-    background-color: lightgray;
-    padding: 10px 10px 10px 10px;
+    background-color: #e6e6e6;
+    padding: 12px 20px 13px 20px;
     right: 0px;
     text-align: -webkit-right;
 }
