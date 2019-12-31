@@ -5,15 +5,27 @@ html, body, h1, h2, h3, h4, h5, h6 {
 
 
 .rightSpaces {
-    word-spacing: 10px;
+    word-spacing: 13px;
 }
 
 .upLeft {
-
+    position: fixed;
+    left:0px;
+    top:0;
+    width: 50%;
+    color: black;
+    text-align: -webkit-left;
+    padding: 20px 20px 13px 25px;
 }
 
 .upRight {
-
+    position: fixed;
+    top:0;
+    width: 50%;
+    color: black;
+    padding: 20px 25px 13px 20px;
+    right: 0px;
+    text-align: -webkit-right;
 }
 
 .center {
@@ -78,7 +90,7 @@ html, body, h1, h2, h3, h4, h5, h6 {
     color: black;
     text-align: -webkit-left;
     background-color: #e6e6e6;
-    padding: 12px 20px 13px 20px;
+    padding: 17px 20px 13px 25px;
 }
 
 
@@ -97,7 +109,7 @@ a:hover {
     width: 50%;
     color: black;
     background-color: #e6e6e6;
-    padding: 12px 20px 13px 20px;
+    padding: 17px 25px 13px 20px;
     right: 0px;
     text-align: -webkit-right;
 }
