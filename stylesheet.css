@@ -28,6 +28,259 @@ html, body, h1, h2, h3, h4, h5, h6 {
     text-align: -webkit-right;
 }
 
+a.blueBox {
+    background-color: #4285f4;
+    border: #4285f4 solid 5px;
+    padding: 1px 10px;
+}
+
+.center {
+    text-align: -webkit-center;
+    padding-top: 109px;
+    height: 92px;
+    border: 5px;
+}
+
+.belowCenter {
+    text-align: -webkit-center;
+    padding-top: 20px;
+    color: #e6e6e6;
+}
+
+
+.search {
+    width: 38%;
+    position: relative;
+    display: flex;
+    border-radius: 15px;
+    outline-width: 0px;
+    padding: 11px;
+    border: #e6e6e6 1px solid;
+  }
+
+.button {
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  /* font-size: 16px; */
+  background-color: #e6e6e6;
+  border-radius: 5px;
+  outline-width: 0px;
+  border-spacing: 10px;
+  margin: 5px;
+}
+
+
+.botRightCenter {
+    position: absolute;
+    background-color: #e6e6e6;
+    left: 60%;
+    margin-left: -100px;
+    padding: 10px;
+}
+
+.botLeftCenter {
+    position: absolute;
+    background-color: #e6e6e6;
+    left: 46%;
+    margin-left: -100px;
+    padding: 10px;
+}
+
+.botLeft {
+    position: fixed;
+    left:0px;
+    bottom:0;
+    width: 50%;
+    color: black;
+    text-align: -webkit-left;
+    background-color: #e6e6e6;
+    padding: 17px 20px 13px 25px;
+}
+
+
+a:link, a:visited {
+    color: black;
+ }
+a:hover {
+    color: black;
+    text-decoration: underline !important;
+    cursor: pointer;
+}
+
+.botRight {
+    position: fixed;
+    bottom:0;
+    width: 50%;
+    color: black;
+    background-color: #e6e6e6;
+    padding: 17px 25px 13px 20px;
+    right: 0px;
+    text-align: -webkit-right;
+}
+html, body, h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+  }
+
+
+.rightSpaces {
+    word-spacing: 13px;
+}
+
+.upLeft {
+    position: fixed;
+    left:0px;
+    top:0;
+    width: 50%;
+    color: black;
+    text-align: -webkit-left;
+    padding: 20px 20px 13px 25px;
+}
+
+.upRight {
+    position: fixed;
+    top:0;
+    width: 50%;
+    color: black;
+    padding: 20px 25px 13px 20px;
+    right: 0px;
+    text-align: -webkit-right;
+}
+
+a.blueBox {
+    background-color: #4285f4;
+    border: #4285f4 solid 5px;
+    padding: 1px 10px;
+}
+
+.center {
+    text-align: -webkit-center;
+    padding-top: 109px;
+    height: 92px;
+    border: 5px;
+}
+
+.belowCenter {
+    text-align: -webkit-center;
+    padding-top: 20px;
+    color: #e6e6e6;
+}
+
+
+.search {
+    width: 38%;
+    position: relative;
+    display: flex;
+    border-radius: 15px;
+    outline-width: 0px;
+    padding: 11px;
+    border: #e6e6e6 1px solid;
+  }
+
+.button {
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  /* font-size: 16px; */
+  background-color: #e6e6e6;
+  border-radius: 5px;
+  outline-width: 0px;
+  border-spacing: 10px;
+  margin: 5px;
+}
+
+
+.botRightCenter {
+    position: absolute;
+    background-color: #e6e6e6;
+    left: 60%;
+    margin-left: -100px;
+    padding: 10px;
+}
+
+.botLeftCenter {
+    position: absolute;
+    background-color: #e6e6e6;
+    left: 46%;
+    margin-left: -100px;
+    padding: 10px;
+}
+
+.botLeft {
+    position: fixed;
+    left:0px;
+    bottom:0;
+    width: 50%;
+    color: black;
+    text-align: -webkit-left;
+    background-color: #e6e6e6;
+    padding: 17px 20px 13px 25px;
+}
+
+
+a:link, a:visited {
+    color: black;
+ }
+a:hover {
+    color: black;
+    text-decoration: underline !important;
+    cursor: pointer;
+}
+
+.botRight {
+    position: fixed;
+    bottom:0;
+    width: 50%;
+    color: black;
+    background-color: #e6e6e6;
+    padding: 17px 25px 13px 20px;
+    right: 0px;
+    text-align: -webkit-right;
+}
+html, body, h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+  }
+
+
+.rightSpaces {
+    word-spacing: 13px;
+}
+
+.upLeft {
+    position: fixed;
+    left:0px;
+    top:0;
+    width: 50%;
+    color: black;
+    text-align: -webkit-left;
+    padding: 30px 20px 18px 25px;
+}
+
+#upRight {
+    position: fixed;
+    top:0;
+    width: 50%;
+    color: black;
+    padding: 20px 25px 13px 20px;
+    right: 0px;
+    text-align: -webkit-right;
+    text-decoration: none;
+}
+
+.button2 {
+    background-color: #4285f4;
+    color: white;
+    padding: 5px 10px;
+    outline-width: 0px;
+    border-spacing: 10px;
+    border: #4285f4 solid ;
+    border-radius: 2px;
+}
+
 .center {
     text-align: -webkit-center;
     padding-top: 109px;
