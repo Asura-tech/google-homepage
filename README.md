@@ -14,4 +14,4 @@ Approximated completion time: 8 hours
 
 To check out the live version:
 
-https://asura-tech.github.io/google-homepage/ 
+https://asurafiend.github.io/google-homepage/
