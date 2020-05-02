@@ -14,4 +14,4 @@ Approximated completion time: 8 hours
 
 To check out the live version:
 
-https://bug-keeper.github.io/google-homepage/
+https://phu-p.github.io/google-homepage/
