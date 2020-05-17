@@ -10,8 +10,5 @@ Progress:
     -The header used most of the codes of the footer, and I just needed to change a few things of the codes.
 
     -Execept the sign in box and the 9 dots, they need to have a few modifications.
-Approximated completion time: 8 hours
 
-To check out the live version:
 
-https://phu-p.github.io/google-homepage/
